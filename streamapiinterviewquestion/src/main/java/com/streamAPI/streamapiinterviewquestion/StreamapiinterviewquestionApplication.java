@@ -7,6 +7,10 @@ public class StreamapiinterviewquestionApplication {
 
         
         System.out.println("StreamapiinterviewquestionApplication");
+
+        String str = "abc";
+        str = "xyz";
+        System.out.println(str);
     }
 
 }
